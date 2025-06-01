@@ -12,7 +12,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'YOOM',
-  description: 'Video calling App',
+  description: 'Aplicación de videollamadas',
   icons: {
     icon: '/icons/logo.svg',
   },
@@ -22,7 +22,7 @@ export default function RootLayout({
   children,
 }: Readonly<{ children: ReactNode }>) {
   return (
-    <html lang="en">
+    <html lang="es">
       <ClerkProvider
         appearance={{
           layout: {

@@ -54,14 +54,14 @@ const MeetingSetup = ({
   if (callHasEnded)
     return (
       <Alert
-        title="The call has been ended by the host"
+        title="La llamada ha sido terminada por el anfitrión."
         iconUrl="/icons/call-ended.svg"
       />
     );
 
   return (
     <div className="flex h-screen w-full flex-col items-center justify-center gap-3 text-white">
-      <h1 className="text-center text-2xl font-bold">Setup</h1>
+      <h1 className="text-center text-2xl font-bold">Configuración</h1>
       <VideoPreview />
       <div className="flex h-16 items-center justify-center gap-3">
         <label className="flex items-center justify-center gap-2 font-medium">
@@ -70,7 +70,7 @@ const MeetingSetup = ({
             checked={isMicCamToggled}
             onChange={(e) => setIsMicCamToggled(e.target.checked)}
           />
-          Join with mic and camera off
+          Únase con el micrófono y la cámara apagados
         </label>
         <DeviceSettings />
       </div>
@@ -82,7 +82,7 @@ const MeetingSetup = ({
           setIsSetupComplete(true);
         }}
       >
-        Join meeting
+        Unirse a la reunión
       </Button>
     </div>
   );
