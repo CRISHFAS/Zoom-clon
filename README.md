@@ -12,7 +12,7 @@
 
 ## <a name="introducción"> Introducción</a>
 
-Construido con los últimos Next.js y TypeScript, este proyecto replica Zoom, una herramienta de videoconferencia ampliamente utilizada. Permite a los usuarios iniciar sesión, crear reuniones y acceder de forma segura a diversas funcionalidades de la reunión, como la grabación, el uso compartido de la pantalla y la gestión de participantes.
+Construido con Next.js y TypeScript, este proyecto replica Zoom, una herramienta de videoconferencia ampliamente utilizada. Permite a los usuarios iniciar sesión, crear reuniones y acceder de forma segura a diversas funcionalidades de la reunión, como la grabación, el uso compartido de la pantalla y la gestión de participantes.
 
 ## <a name="pila-tecnológica"> Pila tecnológica</a>
 
