@@ -5,7 +5,7 @@ import Navbar from '@/components/Navbar';
 import Sidebar from '@/components/Sidebar';
 
 export const metadata: Metadata = {
-  title: 'YOOM',
+  title: 'ZOOM CL',
   description:
     'Un espacio de trabajo para tu equipo, impulsado por Stream Chat y Clerk.',
 };

@@ -1,6 +1,6 @@
-<h3 align="center">A Zoom Clone</h3>
+<h3 align="center">Zoom Clon</h3>
 
-## <a name="table">Table of Contents</a>
+## <a name="table">Tabla de contenido</a>
 
 1. [Introducción](#introducción)
 2. [Pila tecnológica](#pila-tecnológica)
