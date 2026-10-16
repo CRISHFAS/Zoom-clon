@@ -1,6 +1,6 @@
 <h3 align="center">Zoom Clon</h3>
 
-> Proyecto desarrollado siguiendo un tutorial de [JavaScript Mastery](https://www.youtube.com/@javascriptmastery/videos) en YouTube. Desplegandolo y configurandolo con mis propias credenciales de Clerk y Stream.
+> Proyecto desarrollado siguiendo un tutorial de [JavaScript Mastery](https://www.youtube.com/watch?v=R8CIO1DZ2b8) en YouTube. Desplegandolo y configurandolo con mis propias credenciales de Clerk y Stream.
 
 ## <a name="table">Tabla de contenido</a>
 
